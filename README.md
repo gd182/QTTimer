@@ -1,5 +1,12 @@
 # QTTimer
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="visualstudio logo"  />
+</div>
+
+
 ## Таймер и лог
 
 ### Условие
